@@ -8,8 +8,10 @@ body , h1 {
 h1 {
   	color: #00838A;
  	font-family: 'Playfair Display', serif;
- 	font-size: 48px
+ 	font-size: 48px;
  }
+ h4 { line-height: 1.5em;
+  }
 
 #slogan {
 	font-style: italic;
