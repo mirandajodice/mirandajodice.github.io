@@ -44,8 +44,9 @@ div {
 }
 
 #row_1 , #row_2 , #row_3 , #row_4 , #row_5 , #row_6 , #row_7 , #row_8 , #row_9 {
-	width: 300px;
-	height: 900px;
-	display: inline-block;
-	overflow: hidden;
+    width: 90%;
+    height: 0;
+    padding-bottom: 66.67%;
+    border: 2px solid white;
+    position: relative;
 }
