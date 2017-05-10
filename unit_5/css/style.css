@@ -10,7 +10,7 @@ h1 {
  	font-family: 'Playfair Display', serif;
  	font-size: 48px;
  }
- h4 { line-height: 1.5em;
+ h4 { line-max-height: 300px: 1.5em;
   }
 
 #slogan {
@@ -45,56 +45,56 @@ div {
 
 #row_1 img {
 	display: block;
-    width: auto;
-    height: auto;
+    max-width: 300px;
+    max-height: 300px: auto;
     padding: 10px;
 } 
 #row_2 img{
 	display: block;
-    width: auto;
-    height: auto;
+    max-width: 300px;
+    max-height: 300px: auto;
     padding: 10px;
 }
 #row_3 img {
 	display: block;
-    width: auto;
-    height: auto;
+    max-width: 300px;
+    max-height: 300px: auto;
     padding: 10px;
 }
 #row_4 img {
 	display: block;
-    width: auto;
-    height: auto;
+    max-width: 300px;
+    max-height: 300px: auto;
     padding: 10px;
 }
 #row_5 img {
 	display: block;
-    width: auto;
-    height: auto;
+    max-width: 300px;
+    max-height: 300px: auto;
     padding: 10px;
 }
 #row_6 img {
 	display: block;
-    width: auto;
-    height: auto;
+    max-width: 300px;
+    max-height: 300px: auto;
     padding: 10px;
 }
 #row_7 img {
 	display: block;
-    width: auto;
-    height: auto;
+    max-width: 300px;
+    max-height: 300px: auto;
     padding: 10px;
 }
 #row_8 img {
 	display: block;
-    width: auto;
-    height: auto;
+    max-width: 300px;
+    max-height: 300px: auto;
     padding: 10px;
 }
 #row_9 img {
 	display: block;
-    width: auto;
-    height: auto;
+    max-width: 300px;
+    max-height: 300px: auto;
     padding: 10px;
 }
 
