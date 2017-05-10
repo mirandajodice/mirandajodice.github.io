@@ -44,9 +44,9 @@ div {
 }
 
 h5 {
-    .img-container {
-    width: 300px; 
-    height: 300px;
-    display: inline-block;
-    overflow: hidden;
+  width: auto;
+  max-width: 3000px;
+  height: auto;
+  max-height: 300px;
+}
 }
