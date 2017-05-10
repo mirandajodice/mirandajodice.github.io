@@ -47,6 +47,6 @@ div {
 	max-width: 300px;
 	max-height: 300px;
 	position: relative;
-	display: block;
+	display: inline-block;
 }
 
