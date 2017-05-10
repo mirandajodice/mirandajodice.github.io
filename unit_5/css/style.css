@@ -44,9 +44,9 @@ div {
 }
 
 h5 {
-  width: auto;
-  max-width: 3000px;
-  height: auto;
-  max-height: 300px;
+  	width: auto;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
 }
-}
+
