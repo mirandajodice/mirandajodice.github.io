@@ -43,16 +43,11 @@ div {
 	padding: 20px;
 }
 
-.img_holder {
-  width: 150px;
-  height: 150px;
-  position: relative;
-  overflow: hidden;
-}
-.img_holder img {
-  position: absolute;
-  display: block;
-  top: 0;
-  left: 0;
-}
+.box #row_1 , #row_2 , #row_3 , #row_4 , #row_5 , #row_6 , #row_7 , #row_8 , #row_9 img {
+	display: block;
+    max-width: 100%;
+    height: auto;
+    min-height:400px;
+    max-height:800px;
+} 
 
