@@ -44,54 +44,63 @@ div {
 }
 
 #row_1 img {
+	float: left;
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 } 
 #row_2 img{
+	float: left;
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
 #row_3 img {
+	float: right;
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
 #row_4 img {
+	float: left;
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
 #row_5 img {
+	float: left;
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
 #row_6 img {
+	float: right;
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
 #row_7 img {
+	float: left;
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
 #row_8 img {
+	float: left;
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
 #row_9 img {
+	float: right;
 	display: block;
     max-width: 300px;
     max-height: 200px;
