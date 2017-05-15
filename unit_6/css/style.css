@@ -49,11 +49,23 @@ div {
 	padding: 20px;
 } 
 
+img {
+	width: 50%;
+}
+
 #left {
 	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: white;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
 	width: 30%;
 }
 
@@ -64,14 +76,6 @@ div {
 	content: " ";
 	clear: both;
 	height: 0;
-}
-
-#right {
-	background-color: white;
-	border: 1px black solid;
-	padding: 20px;
-	float: right;
-	width: 30%;
 }
 
 #row_2 img{
