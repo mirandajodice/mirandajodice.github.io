@@ -81,10 +81,6 @@ div {
 	height: 0;
 }
 
-#column1 #column2 #column3 {
-	display: inline-block;
-}
-
 #column2 img{
 	display: block;
     max-width: 200px;
