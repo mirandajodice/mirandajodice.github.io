@@ -43,14 +43,14 @@ div {
 	padding: 20px;
 }
 
-#row_1 img {
+#column1 img {
 	height: auto; 
     width: auto; 
     max-width: 300px; 
     max-height: 300px;
 }
 
-#row_1 {
+#column1 {
 	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
@@ -81,49 +81,49 @@ div {
 	height: 0;
 }
 
-#row_2 img{
+#column2 img{
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
-#row_3 img {
+#column3 img {
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
-#row_4 img {	
+#column4 img {	
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
-#row_5 img {	
+#column5 img {	
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
-#row_6 img {
+#column6 img {
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
-#row_7 img {	
+#column7 img {	
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
-#row_8 img {	
+#column8 img {	
 	display: block;
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
 }
-#row_9 img {
+#column9 img {
 	display: block;
     max-width: 300px;
     max-height: 200px;
