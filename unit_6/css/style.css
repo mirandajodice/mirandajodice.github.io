@@ -44,7 +44,8 @@ div {
 }
 
 #row_1,#row_1,#row_3,#row_4,#row_5,#row_6,#row_7,#row8,#row_9 img {
-	width: 50%
+	max-width: 50%
+	max-height: 50%;
 }
 
 #row_1 {
