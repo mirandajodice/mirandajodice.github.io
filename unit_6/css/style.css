@@ -43,8 +43,9 @@ div {
 	padding: 20px;
 }
 
-#row_1,#row_1,#row_3,#row_4,#row_5,#row_6,#row_7,#row8,#row_9 img {
-	max-width: 50%
+#row_1,#row_2,#row_3,#row_4,#row_5,#row_6,#row_7,#row_8,#row_9 img {
+	image-rendering: auto;
+	max-width: 50%;
 	max-height: 50%;
 }
 
