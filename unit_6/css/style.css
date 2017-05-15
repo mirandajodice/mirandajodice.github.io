@@ -53,6 +53,7 @@ div {
 #column1 {
 	background-color: white;
 	border: 1px black solid;
+	column-width: 340px;
 	padding: 20px;
 } 
 
@@ -91,6 +92,7 @@ div {
 #column2 {
 	background-color: white;
 	border: 1px black solid;
+	column-width: 340px;
 	padding: 20px;
 }
 
