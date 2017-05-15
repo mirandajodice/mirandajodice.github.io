@@ -82,7 +82,7 @@ div {
 }
 
 #column1 #column2 #column3 {
-	display: inline;
+	display: inline-block;
 }
 
 #column2 img{
