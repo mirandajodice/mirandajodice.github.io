@@ -43,15 +43,15 @@ div {
 	padding: 20px;
 }
 
+#row_1,#row_1,#row_3,#row_4,#row_5,#row_6,#row_7,#row8,#row_9 img {
+	width: 50%
+}
+
 #row_1 {
 	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 } 
-
-img {
-	width: 50%;
-}
 
 #left {
 	background-color: white;
