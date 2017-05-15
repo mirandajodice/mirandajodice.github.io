@@ -81,12 +81,19 @@ div {
 	height: 0;
 }
 
-#column2 img{
-	display: block;
-    max-width: 200px;
-    max-height: 200px;
-    padding: 10px;
+#column2 img {
+	height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
 }
+
+#column2 {
+	background-color: white;
+	border: 1px black solid;
+	padding: 20px;
+}
+
 #column3 img {
 	display: block;
     max-width: 200px;
