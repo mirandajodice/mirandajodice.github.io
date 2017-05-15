@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Raleway');
+
+body , h1 {
+	background: white;
+	font-family: 'Raleway', sans-serif;
+	margin: 20px 50px 20px 50px;
+}
+h1 {
+  	color: #00838A;
+ 	font-family: 'Playfair Display', serif;
+ 	font-size: 48px;
+ }
+ h4 { line-max-height: 300px: 1.5em;
+  }
+
+#slogan {
+	font-style: italic;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px;
+	padding: 20px;
+}
+article {
+	background-color: #E89C6C;
+	border: 1px;
+	padding: 20px;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px;
+	padding: 20px;
+}
+div {
+	background-color: #FFE2B8;
+	border: 1px;
+	padding: 20px;
+}
+
+#row_1 {
+	background-color: white;
+	border: 1px black solid;
+	padding: 20px;
+} 
+
+#left {
+	background-color: white;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#right {
+	background-color: white;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 30%;
+}
+
+#row_2 img{
+	display: block;
+    max-width: 200px;
+    max-height: 200px;
+    padding: 10px;
+}
+#row_3 img {
+	display: block;
+    max-width: 200px;
+    max-height: 200px;
+    padding: 10px;
+}
+#row_4 img {	
+	display: block;
+    max-width: 200px;
+    max-height: 200px;
+    padding: 10px;
+}
+#row_5 img {	
+	display: block;
+    max-width: 200px;
+    max-height: 200px;
+    padding: 10px;
+}
+#row_6 img {
+	display: block;
+    max-width: 200px;
+    max-height: 200px;
+    padding: 10px;
+}
+#row_7 img {	
+	display: block;
+    max-width: 200px;
+    max-height: 200px;
+    padding: 10px;
+}
+#row_8 img {	
+	display: block;
+    max-width: 200px;
+    max-height: 200px;
+    padding: 10px;
+}
+#row_9 img {
+	display: block;
+    max-width: 300px;
+    max-height: 200px;
+    padding: 10px;
+}
+
