@@ -48,6 +48,8 @@ nav a {
 
 a.hover:hover {
 	background-color: white;
+	text-decoration: none;
+	cursor: pointer;
 }
 
 article {
@@ -148,6 +150,11 @@ div {
     max-width: 200px;
     max-height: 200px;
     padding: 10px;
+}
+#column4 {
+background-color: white;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 #column5 {
