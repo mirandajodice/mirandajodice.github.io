@@ -9,8 +9,9 @@ body , h1 {
 h1 {
   	color: #22C9BB;
  	font-family: 'Playfair Display', serif;
- 	font-size: 60px;
+ 	font-size: 80px;
  	font-style: bold;
+ 	letter-spacing: 2px;
  	margin: 30px 120px 30px 120px;
 }
 
@@ -38,8 +39,8 @@ nav {
 	height: 30px;
 	padding: 5px;
 	float: none;
-	margin-right: 2em;
-	margin-left: 2em;
+	margin-right: 4em;
+	margin-left: 4em;
 }
 
 a {
