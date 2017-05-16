@@ -77,6 +77,10 @@ footer {
 	height: 0;
 }
 
+section {
+	position: relative;
+}
+
 .overlay {
 	position: absolute;
 	top: 0;
