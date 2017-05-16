@@ -7,9 +7,9 @@ body , h1 {
 }
 
 h1 {
-  	color: #00838A;
+  	color: #22C9BB;
  	font-family: 'Playfair Display', serif;
- 	font-size: 48px;
+ 	font-size: 50px;
 }
 
 h4 {
@@ -41,7 +41,7 @@ nav {
 }
 
 a {
-	background-color: #00838A;
+	background-color: #22C9BB;
 	border: 1px black solid;
 	padding: 5px;
 	padding-left: 5px;
