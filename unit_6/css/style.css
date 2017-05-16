@@ -79,7 +79,7 @@ footer {
 .column {
 	float: left;
 	width: 25%;
-	height: 980px;
+	height: 960px;
 	padding: 20px;
 	margin: 22px;
 }
@@ -209,4 +209,6 @@ background-color: white;
     max-height: 200px;
     padding: 10px;
 }
+
+
 
