@@ -25,12 +25,13 @@ header {
 nav {
 	background-color: white;
 	color: white;
+	text-decoration: none;
 	border: 1px;
 	padding: 20px;
 }
 
 a.hover:hover {
-	background-color: #00838A
+	background-color: #00838A;
 }
 
 article {
