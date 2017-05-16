@@ -33,6 +33,7 @@ nav {
 	width: 500px;
 	height: 30px;
 	padding: 5px;
+	float: none;
 }
 
 a {
@@ -67,6 +68,24 @@ div {
 	padding: 20px;
 }
 
+.clearfix:after {
+	overflow: auto;
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+.column {
+	float: left;
+	width: 32%;
+	height: 1050px;
+	padding: 20;
+	margin: 0;
+}
+
 #column1 img {
 	height: auto; 
     width: auto; 
@@ -78,32 +97,6 @@ div {
 	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
-} 
-
-#left {
-	background-color: white;
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 30%;
-}
-
-#right {
-	background-color: white;
-	border: 1px black solid;
-	padding: 20px;
-	float: right;
-	width: 30%;
-}
-
-.clearfix:after {
-	overflow: auto;
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
 }
 
 #column2 img {
