@@ -12,7 +12,8 @@ h1 {
  	font-size: 48px;
 }
 
-h4 { line-max-height: 300px: 1.5em;
+h4 {
+	line-height: 1.5em;
 }
 
 #slogan {
