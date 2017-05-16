@@ -61,12 +61,6 @@ article {
 	padding: 20px;
 }
 
-footer {
-	background-color: white;
-	border: 1px;
-	padding: 20px;
-}
-
 .clearfix:after {
 	overflow: auto;
 	visibility: hidden;
@@ -95,7 +89,7 @@ section {
 }
 
 .container:hover .overlay {
-	opacity: 1;
+	opacity: 50;
 }
 
 .text {
@@ -240,6 +234,12 @@ background-color: white;
     max-width: 300px;
     max-height: 200px;
     padding: 10px;
+}
+
+footer {
+	background-color: white;
+	border: 1px;
+	padding: 20px;
 }
 
 
