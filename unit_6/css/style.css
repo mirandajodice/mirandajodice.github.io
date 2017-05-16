@@ -18,27 +18,33 @@ h1 {
 }
 
 header {
-	background-color: #FFED74;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 }
 nav {
-	background-color: #E8C66A;
+	background-color: white;
+	color: white;
 	border: 1px;
 	padding: 20px;
 }
+
+a.hover:hover {
+	background-color: #00838A
+}
+
 article {
-	background-color: #E89C6C;
+	background-color: white;
 	border: 1px;
 	padding: 20px;
 }
 footer {
-	background-color: #FF957E;
+	background-color: white;
 	border: 1px;
 	padding: 20px;
 }
 div {
-	background-color: #FFE2B8;
+	background-color: white;
 	border: 1px;
 	padding: 20px;
 }
