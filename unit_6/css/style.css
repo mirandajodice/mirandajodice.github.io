@@ -36,6 +36,11 @@ nav {
 	padding: 10px;
 }
 
+nav a {
+	border: 1px;
+	padding: 5px;
+}
+
 a.hover:hover {
 	background-color: white;
 }
