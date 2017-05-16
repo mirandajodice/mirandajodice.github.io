@@ -9,7 +9,9 @@ body , h1 {
 h1 {
   	color: #22C9BB;
  	font-family: 'Playfair Display', serif;
- 	font-size: 50px;
+ 	font-size: 60px;
+ 	font-style: bold;
+ 	margin: 30px 120px 30px 120px;
 }
 
 h4 {
