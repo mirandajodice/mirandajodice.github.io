@@ -19,11 +19,21 @@ h1 {
  	margin: 10px 120px 10px 120px;
 }
 
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	list-style: none;
+	font-size: 18px;
+}
+
 h4 {
 	line-height: 1.5em;
 }
 
 #slogan {
+	font-size: 18px;
 	font-style: italic;
 	padding: 5px;
 }
