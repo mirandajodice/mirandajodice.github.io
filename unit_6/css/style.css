@@ -6,6 +6,10 @@ body , h1 {
 	margin: 50px 120px 50px 120px;
 }
 
+header {
+	padding: 5px;
+}
+
 h1 {
   	color: #22C9BB;
  	font-family: 'Playfair Display', serif;
