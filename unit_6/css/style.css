@@ -41,6 +41,15 @@ nav {
 	padding: 5px 5px 5px 5px;
 }
 
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
 a {
 	background-color: #22C9BB;
 	border: 1px black solid;
