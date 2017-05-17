@@ -31,14 +31,22 @@ header {
 }
 
 nav {
-	background-color: white;
+	background-color: #9AF2E6;
 	font-family: 'Raleway', sans-serif;
 	color: black;
 	text-decoration: none;
 	text-align: center;
-	width: 500px;
-	height: 30px;
+	margin-right: 2em;
+	margin-left: 2em;
 	padding: 5px 5px 5px 5px;
+}
+
+a {
+	background-color: #22C9BB;
+	border: 1px black solid;
+	padding: 10px;
+	float: none;
+	display: inline-block;
 }
 
 .clearfix:after {
@@ -48,15 +56,6 @@ nav {
 	clear: both;
 	height: 0;
 	font-size: 0;
-}
-
-a {
-	background-color: #22C9BB;
-	border: 1px black solid;
-	padding: 5px;
-	padding-left: 5px;
-	float: none;
-	display: inline-block;
 }
 
 a.hover:hover {
