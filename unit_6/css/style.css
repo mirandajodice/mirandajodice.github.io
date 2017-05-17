@@ -108,6 +108,10 @@ article {
 	height: 0;
 }
 
+.collection {
+	border: 1px black solid
+}
+
 .column {
 	float: left;
 	width:28%;
