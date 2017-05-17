@@ -62,8 +62,6 @@ nav {
 	color: black;
 	text-decoration: none;
 	text-align: center;
-	width: 575px;
-	height: 154px;
 	margin: .5em 2em .5em 2em;
 	padding: 5px 5px 5px 5px;
 }
@@ -245,9 +243,10 @@ background-color: white;
 }
 
 footer {
-	background-color: white;
+	background-color: #9AF2E6;
 	border: 1px;
 	padding: 20px;
+	margin: 50px 120px 50px 120px;
 }
 
 
