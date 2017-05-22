@@ -4,6 +4,8 @@ body , h1 {
 	background: white;
 	font-family: 'Raleway', sans-serif;
 	margin: 50px 120px 50px 120px;
+	padding: 10px;
+	border: 1px black solid;
 }
 
 header {
