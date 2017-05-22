@@ -142,6 +142,7 @@ article {
 #column1 {
 	background-color: white;
 	padding: 20px;
+	height: auto;
 }
 
 .clearfix:after {
@@ -163,6 +164,7 @@ article {
 #column2 {
 	background-color: white;
 	padding: 20px;
+	height: auto;
 }
 
 .clearfix:after {
@@ -185,6 +187,7 @@ article {
 #column3 {
 	background-color: white;
 	padding: 20px;
+	height: auto;
 }
 
 .clearfix:after {
@@ -204,8 +207,9 @@ article {
     padding: 10px;
 }
 #column4 {
-background-color: white;
+	background-color: white;
 	padding: 20px;
+	height: auto;
 }
 
 .clearfix:after {
@@ -221,6 +225,7 @@ background-color: white;
 #column5 {
 	background-color: white;
 	padding: 20px;
+	height: auto;
 }
 
 #column5 img {	
@@ -243,6 +248,7 @@ background-color: white;
 #column6 {
 	background-color: white;
 	padding: 20px;
+	height: auto;
 }
 
 #column6 img {
@@ -265,6 +271,7 @@ background-color: white;
 #column7 {
 	background-color: white;
 	padding: 20px;
+	height: auto;
 }
 
 #column7 img {	
@@ -287,6 +294,7 @@ background-color: white;
 #column8 {
 	background-color: white;
 	padding: 20px;
+	height: auto;
 }
 
 #column8 img {	
@@ -309,6 +317,7 @@ background-color: white;
 #column9 {
 	background-color: white;
 	padding: 20px;
+	height: auto;
 }
 
 #column9 img {
