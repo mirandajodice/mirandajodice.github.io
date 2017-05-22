@@ -1,0 +1,326 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Raleway');
+
+body , h1 {
+	background: white;
+	font-family: 'Raleway', sans-serif;
+	margin: 50px 120px 50px 120px;
+}
+
+header {
+	padding: 5px;
+}
+
+h1 {
+  	color: #22C9BB;
+ 	font-family: 'Playfair Display', serif;
+ 	font-size: 75px;
+ 	font-style: bold;
+ 	letter-spacing: 2px;
+ 	margin: 10px 120px 10px 120px;
+}
+
+h2 {
+	font-size: 20px;
+
+}
+
+h3 ul {
+	list-style: none;
+	font-size: 18px;
+	padding: 10px;
+}
+
+h4 {
+	line-height: 1.5em;
+}
+
+h5 {
+	font-size: 20px;
+	margin: 25px 0 10px 0;
+}
+
+h6 {
+	font-size: 18px;
+	margin: 10px 0;
+}
+
+#slogan {
+	font-size: 18px;
+	font-style: italic;
+	padding: 5px;
+}
+
+header {
+	background-color: white;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #9AF2E6;
+	font-family: 'Raleway', sans-serif;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	margin: .5em 2em .5em 2em;
+	padding: 5px 5px 5px 5px;
+}
+
+a {
+	background-color: #9AF2E6;
+	color: black;
+	font-size: 20px;
+	text-decoration: none;
+	border: 1px black solid;
+	padding: 20px;
+	float: none;
+	display: inline-block;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
+a.hover:hover {
+	background-color: #22C9BB;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+article {
+	background-color: white;
+	border: 1px;
+	padding: 20px;
+}
+
+.clearfix:after {
+	overflow: auto;
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+.collection {
+	border: 1px black solid
+}
+
+.column {
+	float: left;
+	width:28%;
+	height: 960px;
+	padding: 10px;
+	margin: 10px;
+}
+
+#column1 img {
+	height: auto; 
+    width: auto;
+    padding: 10px;
+}
+
+#column1 {
+	background-color: white;
+	padding: 20px;
+}
+
+.clearfix:after {
+	overflow: auto;
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#column2 img {
+	height: auto; 
+    width: auto;
+    padding: 10px;
+}
+
+#column2 {
+	background-color: white;
+	padding: 20px;
+}
+
+.clearfix:after {
+	overflow: auto;
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#column3 img {
+	display: block;
+    height: auto;
+    width: auto;
+    padding: 10px;
+}
+
+#column3 {
+	background-color: white;
+	padding: 20px;
+}
+
+.clearfix:after {
+	overflow: auto;
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#column4 img {	
+	display: block;
+    height: auto;
+    width: auto;
+    padding: 10px;
+}
+#column4 {
+background-color: white;
+	padding: 20px;
+}
+
+.clearfix:after {
+	overflow: auto;
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#column5 {
+	background-color: white;
+	padding: 20px;
+}
+
+#column5 img {	
+	display: block;
+    height: auto;
+    width: auto;
+    padding: 10px;
+}
+
+.clearfix:after {
+	overflow: auto;
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#column6 {
+	background-color: white;
+	padding: 20px;
+}
+
+#column6 img {
+	display: block;
+    height: auto;
+    width: auto;
+    padding: 10px;
+}
+
+.clearfix:after {
+	overflow: auto;
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#column7 {
+	background-color: white;
+	padding: 20px;
+}
+
+#column7 img {	
+	display: block;
+    height: auto;
+    width: auto;
+    padding: 10px;
+}
+
+.clearfix:after {
+	overflow: auto;
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#column8 {
+	background-color: white;
+	padding: 20px;
+}
+
+#column8 img {	
+	display: block;
+    height: auto;
+    width: auto;
+    padding: 10px;
+}
+
+.clearfix:after {
+	overflow: auto;
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#column9 {
+	background-color: white;
+	padding: 20px;
+}
+
+#column9 img {
+	display: block;
+    height: auto;
+    width: auto;
+    padding: 10px;
+}
+
+.clearfix:after {
+	overflow: auto;
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#footer {
+	background-color: #9AF2E6;
+	border: 1px;
+	margin: 50px 100px 50px 100px;
+	padding: 20px;
+}
+
+
+
