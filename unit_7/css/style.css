@@ -432,6 +432,9 @@ article {
 	body {
 		margin: 0.9375em 3.75em 0.9375em 3.75em;
 	}
+	.column {
+		align-items: center;
+	}
 }
 
 
@@ -456,6 +459,7 @@ article {
 	}
 	.column {
 		font-size: 0.875em;
+		align-items: center;
 	}
 }
 
