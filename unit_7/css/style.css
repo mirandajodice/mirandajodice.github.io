@@ -445,6 +445,12 @@ article {
 		font-size: 1em;
 		padding: 10px;
 	}
+	h3 h4 {
+		font-size: 0.875em;
+	}
+	.column {
+		font-size: 0.875em;
+	}
 }
 
 	
