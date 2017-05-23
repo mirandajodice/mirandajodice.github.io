@@ -27,10 +27,17 @@ h2 {
 
 }
 
+nav ul {
+	list-style: none;
+	font-size: 18px;
+	padding: 10px;
+}
+
 h3 ul {
 	list-style: none;
 	font-size: 18px;
 	padding: 10px;
+}
 }
 
 h4 {
@@ -81,6 +88,7 @@ a {
 	clear: both;
 	height: 0;
 	font-size: 0;
+	border: 1px black solid;
 }
 
 a.hover:hover {
