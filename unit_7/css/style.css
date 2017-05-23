@@ -40,6 +40,7 @@ nav ul {
 
 h3 ul {
 	list-style: none;
+	line-height: 150%
 	font-size: 18px;
 	padding: 10px;
 }
@@ -353,7 +354,7 @@ article {
 	background-color: #9AF2E6;
 	border: 1px black solid;
 	max-width: 100%;
-	padding: 20px;
+	padding: 15px;
 }
 
 #copyright {
