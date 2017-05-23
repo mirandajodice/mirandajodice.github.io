@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display|Raleway');
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
 	background: white;
 	font-family: 'Raleway', sans-serif;
