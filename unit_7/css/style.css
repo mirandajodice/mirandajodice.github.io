@@ -368,6 +368,7 @@ article {
 
 .social {
 	display: inline-block;
+	float: right;
 }
 
 .fa {
@@ -379,7 +380,6 @@ article {
   margin: 5px 2px;
   border-radius: 50%;
   display: inline-block;
-  float: right;
 }
 
 .clearfix:after {
