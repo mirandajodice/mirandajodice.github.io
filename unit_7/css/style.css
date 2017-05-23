@@ -369,6 +369,7 @@ article {
 .social {
 	display: inline-block;
 	float: right;
+	padding-bottom: 20px;
 }
 
 .fa {
