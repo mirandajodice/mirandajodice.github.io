@@ -435,10 +435,11 @@ article {
 }
 
 @media only screen and (max-width: 985px) {
-	.social a {
+	#footer, .social a {
 		width: auto;
 		height: auto;
 		float: none;
+		display: block;
 	}
 }
 
