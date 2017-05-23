@@ -43,10 +43,9 @@ h3 ul {
 	font-size: 18px;
 	padding: 10px;
 }
-}
 
 h4 {
-	line-height: 200%;
+	line-height: normal;
 	padding-left: 20px;
 }
 
