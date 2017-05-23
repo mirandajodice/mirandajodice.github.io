@@ -357,6 +357,20 @@ article {
 	padding: 15px;
 }
 
+#footer h4 {
+	display: inline-block;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+.social {
+	float: right;
+}
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -366,12 +380,6 @@ article {
 	font-size: 0;
 }
 
-#footer h4 {
-	display: inline-block;
-}
-.social {
-	float: right;
-}
 
 .fa {
   padding: 20px;
