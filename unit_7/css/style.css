@@ -20,10 +20,8 @@ header {
 
 #logo {
 	height: auto;
-	width: 100%; 
-    max-width: 400px;
+	width: 100%;
     align-items: center;
-  	justify-content: center;
 }
 
 h1 {
