@@ -21,6 +21,8 @@ header {
 #logo {
 	height: auto; 
     max-width: 400px;
+    align-items: center;
+  	justify-content: center;
 }
 
 h1 {
