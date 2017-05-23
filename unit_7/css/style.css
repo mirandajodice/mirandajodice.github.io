@@ -20,7 +20,7 @@ header {
 
 #logo {
 	height: auto; 
-    max-width: 100%;
+    max-width: 400px;
 }
 
 h1 {
@@ -30,11 +30,6 @@ h1 {
  	font-style: bold;
  	letter-spacing: 2px;
  	max-width: 100%;
-}
-
-@media {
-	h1 { 
-		font-size: 40px }
 }
 
 h2 {
