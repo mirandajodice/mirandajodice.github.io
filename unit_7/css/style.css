@@ -366,6 +366,9 @@ article {
 	font-size: 0;
 }
 
+.social {
+	display: inline-block;
+}
 
 .fa {
   padding: 20px;
