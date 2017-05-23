@@ -40,7 +40,7 @@ nav ul {
 
 h3 ul {
 	list-style: none;
-	line-height: 150%
+	line-height: 150%;
 	font-size: 18px;
 	padding: 10px;
 }
@@ -359,6 +359,7 @@ article {
 
 #copyright {
 	padding-bottom: 10px;
+	padding-left: 20px
 }
 
 
