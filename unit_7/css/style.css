@@ -90,12 +90,15 @@ a {
 	font-size: 0;
 }
 
+a.hover {
+	margin: 10px;
+}
+
 a.hover:hover {
 	background-color: #22C9BB;
 	text-decoration: none;
 	cursor: pointer;
 	padding: 10px;
-	margin: 10px;
 }
 
 article {
