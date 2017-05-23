@@ -464,6 +464,14 @@ article {
 	}
 	.column {
 		font-size: 0.875em;
+		width: auto;
+		float: none;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	#wrapper {
+		width: 95%;
 	}
 }
 
