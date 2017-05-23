@@ -366,11 +366,6 @@ article {
 	font-size: 0;
 }
 
-#copyright {
-	padding-bottom: 10px;
-	padding-left: 20px
-}
-
 
 .fa {
   padding: 20px;
@@ -414,5 +409,9 @@ article {
   color: white;
 }
 
+#copyright {
+	padding-bottom: 10px;
+	padding-left: 20px
+}
 
 
