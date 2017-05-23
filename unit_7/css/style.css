@@ -19,7 +19,8 @@ header {
 }
 
 #logo {
-	height: auto; 
+	height: auto;
+	width: 100%; 
     max-width: 400px;
     align-items: center;
   	justify-content: center;
