@@ -362,6 +362,7 @@ article {
 }
 .social {
 	float: right;
+	padding-left: 50px;
 }
 .clearfix:after {
 	visibility: hidden;
