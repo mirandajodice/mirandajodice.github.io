@@ -436,7 +436,7 @@ article {
 
 @media only screen and (max-width: 985px) {
 	.social a {
-		width: .5em;
+		width: auto;
 		height: auto;
 		float: none;
 	}
