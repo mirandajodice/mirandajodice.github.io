@@ -135,7 +135,7 @@ article {
 
 #column1 img {
 	height: auto; 
-    width: auto;
+    max-width: 100%;
     padding: 10px;
 }
 
@@ -156,8 +156,9 @@ article {
 }
 
 #column2 img {
+	display: block;
 	height: auto; 
-    width: auto;
+    max-width: 100%;
     padding: 10px;
 }
 
@@ -180,7 +181,7 @@ article {
 #column3 img {
 	display: block;
     height: auto;
-    width: auto;
+    max-width: 100%;
     padding: 10px;
 }
 
@@ -203,7 +204,7 @@ article {
 #column4 img {	
 	display: block;
     height: auto;
-    width: auto;
+    max-width: 100%;
     padding: 10px;
 }
 #column4 {
@@ -231,7 +232,7 @@ article {
 #column5 img {	
 	display: block;
     height: auto;
-    width: auto;
+    max-width: 100%;
     padding: 10px;
 }
 
@@ -254,7 +255,7 @@ article {
 #column6 img {
 	display: block;
     height: auto;
-    width: auto;
+    max-width: 100%;
     padding: 10px;
 }
 
@@ -277,7 +278,7 @@ article {
 #column7 img {	
 	display: block;
     height: auto;
-    width: auto;
+    max-width: 100%;
     padding: 10px;
 }
 
@@ -300,7 +301,7 @@ article {
 #column8 img {	
 	display: block;
     height: auto;
-    width: auto;
+    max-width: 100%;
     padding: 10px;
 }
 
@@ -323,7 +324,7 @@ article {
 #column9 img {
 	display: block;
     height: auto;
-    width: auto;
+    max-width: 100%;
     padding: 10px;
 }
 
