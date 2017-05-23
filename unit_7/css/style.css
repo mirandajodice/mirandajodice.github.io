@@ -18,13 +18,18 @@ header {
 	background-color: white;
 }
 
+#logo {
+	height: auto; 
+    max-width: 100%;
+}
+
 h1 {
   	color: #22C9BB;
  	font-family: 'Playfair Display', serif;
  	font-size: 75px;
  	font-style: bold;
  	letter-spacing: 2px;
- 	max-width: 100%
+ 	max-width: 100%;
 }
 
 h2 {
