@@ -360,14 +360,6 @@ article {
 #footer h4 {
 	display: inline-block;
 }
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	content: " ";
-	clear: both;
-	height: 0;
-	font-size: 0;
-}
 .social {
 	float: right;
 }
