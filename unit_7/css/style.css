@@ -357,6 +357,15 @@ article {
 	padding: 15px;
 }
 
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
 #copyright {
 	padding-bottom: 10px;
 	padding-left: 20px
