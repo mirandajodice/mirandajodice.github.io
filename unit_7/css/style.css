@@ -435,7 +435,9 @@ article {
 	}
 	a {
 		width: auto;
+		font-size: 1.125em;
 		padding: 10px;
 	}
+}
 
 	
