@@ -366,10 +366,9 @@ article {
 	font-size: 0;
 }
 
-.social {
+#footer h4 {
 	display: inline-block;
 	float: right;
-	padding-bottom: 20px;
 }
 
 .fa {
