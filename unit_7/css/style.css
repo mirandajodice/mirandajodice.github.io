@@ -375,6 +375,15 @@ article {
   float: right;
 }
 
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
 .fa:hover {
     opacity: 0.7;
 }
