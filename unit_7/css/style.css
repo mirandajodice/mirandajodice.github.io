@@ -432,8 +432,11 @@ article {
 	body {
 		margin: 0.9375em 3.75em 0.9375em 3.75em;
 	}
-	.column {
-		align-items: center;
+}
+
+@media only screen and (max-width: 985px) {
+	.social {
+		width: .5em;
 	}
 }
 
@@ -459,7 +462,6 @@ article {
 	}
 	.column {
 		font-size: 0.875em;
-		align-items: center;
 	}
 }
 
