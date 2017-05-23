@@ -30,7 +30,7 @@ h2 {
 nav ul {
 	list-style: none;
 	font-size: 18px;
-	-webkit-padding-start: none;
+	-webkit-appearance:none;
 }
 
 h3 ul {
