@@ -428,6 +428,13 @@ article {
 	padding-left: 10px
 }
 
+@media only screen and (max-width: 1265px) {
+	body {
+		margin: 0.9375em 3.75em 0.9375em 3.75em;
+	}
+}
+
+
 @media only screen and (max-width: 610px) {
 	h1 { 
 		width: auto;
