@@ -368,6 +368,8 @@ article {
 
 #footer h4 {
 	display: inline-block;
+}
+.social {
 	float: right;
 }
 
