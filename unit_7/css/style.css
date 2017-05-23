@@ -68,6 +68,7 @@ nav {
 	text-decoration: none;
 	text-align: center;
 	padding: 5px 5px 5px 5px;
+	border: 1px black solid;
 }
 
 a {
@@ -88,13 +89,13 @@ a {
 	clear: both;
 	height: 0;
 	font-size: 0;
-	border: 1px black solid;
 }
 
 a.hover:hover {
 	background-color: #22C9BB;
 	text-decoration: none;
 	cursor: pointer;
+	padding: 10px;
 }
 
 article {
