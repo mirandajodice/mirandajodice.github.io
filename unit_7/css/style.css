@@ -367,10 +367,7 @@ article {
 #footer h4 {
 	display: inline-block;
 }
-.social {
-	padding-left: 500px;
-	padding-right: 5px;
-}
+
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -388,7 +385,7 @@ article {
   text-align: center;
   text-decoration: none;
   margin: 0.3125em 0.0125em;
-  border-radius: 25%;
+  border-radius: 50%;
   display: inline-block;
 }
 
