@@ -364,10 +364,6 @@ article {
 	padding: 15px;
 }
 
-#footer h4 {
-	display: inline-block;
-}
-
 .clearfix:after {
 	visibility: hidden;
 	display: block;
