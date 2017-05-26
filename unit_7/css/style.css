@@ -368,7 +368,6 @@ article {
 	display: inline-block;
 }
 .social {
-	float: right;
 	padding-left: 500px;
 	padding-right: 5px;
 }
@@ -389,7 +388,7 @@ article {
   text-align: center;
   text-decoration: none;
   margin: 0.3125em 0.0125em;
-  border-radius: 50%;
+  border-radius: 25%;
   display: inline-block;
 }
 
