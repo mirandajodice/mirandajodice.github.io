@@ -426,17 +426,11 @@ article {
 	}
 }
 
-@media only screen and (max-width: 985px) {
-	#footer, .social a {
-		width: auto;
-		height: auto;
-		float: none;
-		display: block;
+
+@media only screen and (max-width: 640px) {
+	body {
+		margin: 0.3125em 1.25em 0.3125em 1.25em;
 	}
-}
-
-
-@media only screen and (max-width: 610px) {
 	h1 { 
 		width: auto;
 		font-size: 1.25em;
@@ -463,6 +457,9 @@ article {
 }
 
 @media only screen and (max-width: 480px) {
+	body {
+		margin: 0.3125em 1.25em 0.3125em 1.25em;
+	}
 	#wrapper {
 		width: 95%;
 	}
