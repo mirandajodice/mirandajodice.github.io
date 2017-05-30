@@ -429,7 +429,7 @@ article {
 
 @media only screen and (max-width: 640px) {
 	body {
-		margin: 0.3125em 1.25em 0.3125em 1.25em;
+		margin: 0.3125em 0.625em 0.3125em 0.625em;
 	}
 	h1 { 
 		width: auto;
@@ -461,7 +461,7 @@ article {
 
 @media only screen and (max-width: 480px) {
 	body {
-		margin: 0.3125em 1.25em 0.3125em 1.25em;
+		margin: 0.3125em 0.625em 0.3125em 0.625em;
 	}
 	#wrapper {
 		width: 95%;
