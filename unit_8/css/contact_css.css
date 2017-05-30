@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Raleway');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+	background: white;
+	font-family: 'Raleway', sans-serif;
+	margin: 1.875em 7.5em 1.875em 7.5em;
+	padding: 1.25em;
+	border: 0.0625em black solid;
+}
+
+header {
+	padding: 5px;
+	background-color: white;
+}
+
+#logo {
+	height: auto;
+	max-width: 100%;
+    align-items: center;
+}
+
+h1 {
+  	color: #22C9BB;
+ 	font-family: 'Playfair Display', serif;
+ 	font-size: 4.5em;
+ 	font-style: bold;
+ 	letter-spacing: 0.0125em;
+ 	max-width: 100%;
+}
+
+h2 {
+	font-size: 1.25em;
+
+}
+
+nav ul {
+	list-style: none;
+	font-size: 1.125em;
+	-webkit-appearance:none;
+}
+
+h3 ul {
+	list-style: none;
+	line-height: 150%;
+	font-size: 1.125em;
+	padding: 10px;
+}
+
+h4 {
+	line-height: 150%;
+	padding: 0.625em;
+}
+
+#slogan {
+	font-size: 1.125em;
+	font-style: italic;
+	padding: 5px;
+}
+
+nav {
+	background-color: #9AF2E6;
+	font-family: 'Raleway', sans-serif;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+	border: 0.0625em black solid;
+	margin-top: 0.3125em;
+}
+
+a {
+	background-color: #9AF2E6;
+	color: black;
+	font-size: 1.25em;
+	text-decoration: none;
+	border: 0.0625em black solid;
+	padding: 20px;
+	float: none;
+	display: inline-block;
+}
+
+a.hover {
+	margin: 0.625em;
+}
+
+a.hover:hover {
+	background-color: #22C9BB;
+	text-decoration: none;
+	cursor: pointer;
+	padding: 15px;
+}
+
+article {
+	background-color: white;
+	border: 0.0625em;
+	padding: 20px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 1.875em;
+  width: 1.25em;
+  text-align: center;
+  text-decoration: none;
+  margin: 0.3125em 0.0125em;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+#copyright {
+	padding-bottom: 10px;
+	padding-left: 10px
+}
+
+@media only screen and (max-width: 1265px) {
+	body {
+		margin: 0.9375em 3.75em 0.9375em 3.75em;
+	}
+}
+
+
+@media only screen and (max-width: 640px) {
+	body {
+		margin: 0.3125em 0.625em 0.3125em 0.625em;
+	}
+	h1 { 
+		width: auto;
+		font-size: 1.25em;
+	}
+	a {
+		width: auto;
+		font-size: 1em;
+		padding: 10px;
+	}
+	h2 {
+		font-size: 1em
+	}
+	h3 {
+		font-size: 1em
+	}
+	h4 {
+		font-size: 0.875em;
+	}
+	.intro {
+		padding: 0.3125em;
+	}
+	.column {
+		font-size: 0.875em;
+		width: auto;
+		float: none;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	body {
+		margin: 0.3125em 0.625em 0.3125em 0.625em;
+	}
+	#wrapper {
+		width: 95%;
+	}
+	.intro {
+		padding: 0.3125em;
+	}
+}
+
+@media only screen and (max-width: 400px) {
+	body {
+		margin: 0.3125em 0.625em 0.3125em 0.625em;
+	}
+	#wrapper {
+		width: 95%;
+	}
+	.intro {
+		padding: 0.3125em;
+	}
+}
