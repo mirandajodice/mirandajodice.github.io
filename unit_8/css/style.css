@@ -449,6 +449,9 @@ article {
 	h4 {
 		font-size: 0.875em;
 	}
+	.intro {
+		padding: 0.3125em;
+	}
 	.column {
 		font-size: 0.875em;
 		width: auto;
@@ -462,6 +465,9 @@ article {
 	}
 	#wrapper {
 		width: 95%;
+	}
+	.intro {
+		padding: 0.3125em;
 	}
 }
 
