@@ -44,10 +44,10 @@ nav ul {
 	-webkit-appearance:none;
 }
 
-h3 ul {
+h3 ul li {
 	list-style: none;
 	line-height: 150%;
-	font-size: 1em;
+	font-size: 1.125em;
 	padding: 10px;
 }
 
@@ -447,7 +447,7 @@ article {
 	h2 {
 		font-size: 1em
 	}
-	h3 {
+	h3 ul li {
 		font-size: 1em
 	}
 	h4 {
