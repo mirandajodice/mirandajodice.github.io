@@ -208,4 +208,8 @@ article {
 	.intro {
 		padding: 0.3125em;
 	}
+	#footer { 
+		padding: 0.625em;
+
+	}
 }
